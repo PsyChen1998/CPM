@@ -5,7 +5,7 @@ This project refactors the CPM (*Connectome-based Predictive Modelling*) model:
 3. The code is very simple, allowing users to create new models according to their needs.
 
 # 2 CPM
-CPM consists of three parts:
+CPM consists of these parts:
 1. **Feature Selection**: Masks are created based on the p-value. Features with a value greater than the p-value are included in the positive mask, while those with a value less than -p are included in the negative mask. The p-value can be treated as a hyperparameter.
 2. **Feature Calculation**: All selected features are summed to create a single variable.
 3. **Model Fitting**: Models are fitted for positive, negative, and both masks. The "both" model is composed of the positive and negative variables, resulting in two variables.
