@@ -12,7 +12,7 @@ CPM consists of three parts:
 4. **Prediction**: Predictions are made using the fitted models.
 
 # 3 Contributions
-- **[Mingzhe Zhang](https://github.com/psyMingzheZhang)** authored [`CPM/1_original_version.ipynb`](https://github.com/PsyChen1998/CPM/blob/main/CPM/1_original_version.ipynb), which is a recreation of the [original version](https://github.com/YaleMRRC/CPM).
+- **[Mingzhe Zhang](https://github.com/psyMingzheZhang)** authored [`CPM/1_original_version.ipynb`](https://github.com/PsyChen1998/CPM/blob/main/CPM/1_original_version.ipynb), which use the codes from the [original version](https://github.com/YaleMRRC/CPM).
 - **[Guoqiu Chen](https://github.com/PsyChen1998)** developed the CPM package and validated it using HBN data in [`CPM/2_new_version.ipynb`](https://github.com/PsyChen1998/CPM/blob/main/CPM/2_new_version.ipynb), which also serves as example code.
 
 # 4 Reference
